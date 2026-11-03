@@ -19,16 +19,16 @@ Dataset yang digunakan merupakan data KarirNex Mart tahun 2025 yang diolah untuk
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Dashboard.png)
+![Power BI Dashboard](https://raw.githubusercontent.com/amalliarizqi/PowerBI-Dashboard-KPI-KarirNex-Mart-2025/main/Dashboard%20KPI%20KarirNex%20Mart%202025.png)
 
 ## Key Insights
 
 Berdasarkan hasil analisis dashboard, diperoleh beberapa temuan utama sebagai berikut:
 
-1. **Revenue:** Total pendapatan selama tahun 2025 mencapai **RpX**.
-2. **Revenue Achievement:** Pencapaian target revenue mencapai **X%**.
-3. **Success Rate:** Tingkat keberhasilan transaksi mencapai **X%**.
-4. **Average Rating:** Rata-rata rating pelanggan mencapai **X/5**.
+1. **Revenue:** Total pendapatan selama tahun 2025 mencapai **Rp773,03 Juta**.
+2. **Revenue Achievement:** Pencapaian target revenue mencapai **99,88%**.
+3. **Success Rate:** Tingkat keberhasilan transaksi mencapai **85,5%**.
+4. **Average Rating:** Rata-rata rating pelanggan mencapai **4,03/5**.
 
 ## Dashboard Analysis
 
@@ -77,7 +77,7 @@ Dashboard dilengkapi dengan fitur interaktif yang memungkinkan pengguna untuk:
 | File | Deskripsi |
 |---|---|
 | [Dashboard KPI KarirNex Mart 2025.pbix](Dashboard%20KPI%20KarirNex%20Mart%202025.pbix) | File dashboard Power BI |
-| [Dataset Excel](NAMA_FILE_DATASET.xlsx) | Dataset penjualan KarirNex Mart 2025 |
+| [Dataset Excel](Dataset_PowerBI_KarirNexMart_2025.xlsx) | Dataset penjualan KarirNex Mart 2025 |
 
 ## Kesimpulan
 
